@@ -16,3 +16,4 @@ A list of interesting things.
 ### Mesh things
 * https://github.com/mikolalysenko/laplacian-deformation/tree/master/cpp
 * http://libigl.github.io/libigl/tutorial/tutorial.html
+* https://github.com/bhaettasch/pop-buffer-demo. A progressive mesh loader.
