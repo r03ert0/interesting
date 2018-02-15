@@ -12,6 +12,7 @@ A list of interesting things.
 * https://airbnb.design/lottie/. Animation package in JS.
 * https://uppy.io/: An uploader widget.
 * https://medium.com/elemefe/element-2-0-is-here-71bfa217e269.
+* https://github.com/naivesound/expr-js. A fast evaluator of algebrain expressions.
 
 ### Mesh things
 * https://github.com/mikolalysenko/laplacian-deformation/tree/master/cpp
