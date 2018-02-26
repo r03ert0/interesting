@@ -18,3 +18,4 @@ A list of interesting things.
 * https://github.com/mikolalysenko/laplacian-deformation/tree/master/cpp
 * http://libigl.github.io/libigl/tutorial/tutorial.html
 * https://github.com/bhaettasch/pop-buffer-demo. A progressive mesh loader.
+* https://github.com/ataber/consistently-orient. Mesh orientation checker.
