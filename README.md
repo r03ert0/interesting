@@ -13,9 +13,13 @@ A list of interesting things.
 * https://uppy.io/: An uploader widget.
 * https://medium.com/elemefe/element-2-0-is-here-71bfa217e269.
 * https://github.com/naivesound/expr-js. A fast evaluator of algebrain expressions.
+* http://www.chartjs.org/samples/latest. Charts. Many.
 
 ### Mesh things
 * https://github.com/mikolalysenko/laplacian-deformation/tree/master/cpp
 * http://libigl.github.io/libigl/tutorial/tutorial.html
 * https://github.com/bhaettasch/pop-buffer-demo. A progressive mesh loader.
 * https://github.com/ataber/consistently-orient. Mesh orientation checker.
+
+### Stats things
+* https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html. Residual interpretation for generalized linear mixed models (GLMMs)
