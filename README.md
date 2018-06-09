@@ -21,6 +21,7 @@ A list of interesting things.
 * https://github.com/bhaettasch/pop-buffer-demo. A progressive mesh loader.
 * https://github.com/ataber/consistently-orient. Mesh orientation checker.
 * http://nbviewer.jupyter.org/github/gpeyre/numerical-tours/blob/master/matlab/fastmarching_4_mesh.ipynb. Geodesic mesh processing.
+* http://community.wolfram.com/groups/-/m/t/1302146. Spherical Lloyd algorithm, in Mathematica.
 
 ### Stats things
 * https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html. Residual interpretation for generalized linear mixed models (GLMMs)
