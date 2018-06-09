@@ -25,3 +25,4 @@ A list of interesting things.
 
 ### Stats things
 * https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html. Residual interpretation for generalized linear mixed models (GLMMs)
+* https://www.mathworks.com/help/stats/estimating-parameters-in-linear-mixed-effects-models.html. Parameters in LMM.
