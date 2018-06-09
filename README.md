@@ -20,6 +20,7 @@ A list of interesting things.
 * http://libigl.github.io/libigl/tutorial/tutorial.html
 * https://github.com/bhaettasch/pop-buffer-demo. A progressive mesh loader.
 * https://github.com/ataber/consistently-orient. Mesh orientation checker.
+* http://nbviewer.jupyter.org/github/gpeyre/numerical-tours/blob/master/matlab/fastmarching_4_mesh.ipynb. Geodesic mesh processing.
 
 ### Stats things
 * https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html. Residual interpretation for generalized linear mixed models (GLMMs)
