@@ -51,6 +51,7 @@ A list of interesting things.
 * https://altair-viz.github.io/. Altair: Declarative Visualization in Python
 * https://github.com/pytorch/fairseq. Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 * https://github.com/anopara/patch-based-texture-synthesis. Nice patch-based-texture-synthesis
+* https://github.com/mxgmn/WaveFunctionCollapse. A constrained filling algorithm, neat.
 * https://www.airpair.com/nlp/keyword-extraction-tutorial. NLP keyword extraction tutorial with RAKE and Maui
 * https://towardsdatascience.com/how-to-extract-keywords-from-pdfs-and-arrange-in-order-of-their-weights-using-python-841556083341. How to Extract Keywords from PDFs and arrange in order of their weights using Python
 * https://github.com/danielkunin/Regularized-Linear-Autoencoders. Loss Landscapes of Regularized Linear Autoencoders
