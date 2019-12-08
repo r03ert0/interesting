@@ -22,6 +22,7 @@ A list of interesting things.
 * https://github.com/google/neuroglancer. WebGL-based viewer for volumetric data
 * https://csv.js.org/. Comprehensive CSV suite combining 4 well tested packages to generate, parse, transform and stringify CSV data.
 * https://www.willusher.io/webgl-volume-raycaster/#Skull. WebGL Volume raycaster. Fast!
+* https://paveldogreat.github.io/WebGL-Fluid-Simulation/. WebGL Fluid simulation. Trippy!
 
 
 ### Morphogenesis
