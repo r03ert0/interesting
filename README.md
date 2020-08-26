@@ -33,6 +33,7 @@ A list of interesting things.
 * https://github.com/jasonwebb/morphogenesis-resources. Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code). Includes links to major articles, code repos, creative projects, books, software, and more.
 * https://github.com/DenizBicer/Physarum. This project implements the algorithm presented in the paper "Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks" by Jeff Jones.
 * https://github.com/BrutPitt/glChAoS.P. Real time 3D strange attractors scout https://michelemorrone.eu/glchaosp
+* https://www.shadertoy.com/view/Wt2BR1. A shader toy with cell-like emergent structures, in under 200 lines of GLSL code!
 
 ### Mesh things
 * https://github.com/mikolalysenko/laplacian-deformation/tree/master/cpp
